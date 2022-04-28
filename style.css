@@ -28,3 +28,10 @@ header .header-container {
 	height: 50px;
 	align-items: center;
 }
+
+
+@media(max-width: 500px) {
+	h1 {
+		font-size: 30px;
+	}
+}
